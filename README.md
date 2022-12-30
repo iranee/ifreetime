@@ -28,4 +28,6 @@ https://github.com/wxxxcxx/ms-ra-forwarder
 参数->添加->请输入请求参数：`text`，内容填`%@`
 
 解析字段->添加->请输入请求参数：`playData`，内容填`ResponseData`
+
+
 4. 测试发音，如果正确就ok了。建议先删除多音字规则那部分测试。
