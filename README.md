@@ -1,5 +1,5 @@
-# ifreetime
-爱阅书香iOS资料
+# ifreetime 爱阅书香
+iOS爱阅书香TTS自建服务
 
 ## 本地/网络部署具硬TTS
 https://github.com/wxxxcxx/ms-ra-forwarder
