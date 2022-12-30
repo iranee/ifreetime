@@ -14,7 +14,7 @@ curl_setopt_array($curl, array(
   CURLOPT_POSTFIELDS =>' 
  <speak xmlns="http://www.w3.org/2001/10/synthesis" xmlns:mstts="http://www.w3.org/2001/mstts" xmlns:emo="http://www.w3.org/2009/10/emotionml" version="1.0" xml:lang="zh-CN">
     <voice name="' . $voiceName . '">
-        <lexicon uri="https://****/tts/lexicon.xml"/>
+        <lexicon uri="https://github.com/iranee/ifreetime/raw/main/lexicon.xml"/>
             <mstts:express-as style="general" styledegree="1.0">
             <prosody rate="0%" pitch="0%">' . $text . '</prosody>
         </mstts:express-as>
