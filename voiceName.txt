@@ -1,0 +1,108 @@
+wuu-CN-XiaotongNeural
+晓彤-Chinese (Wu, Simplified)
+
+wuu-CN-YunzheNeural
+云哲-Chinese (Wu, Simplified)
+
+yue-CN-XiaoMinNeural
+晓敏-Chinese (Cantonese, Simplified)
+
+yue-CN-YunSongNeural
+云松-Chinese (Cantonese, Simplified)
+
+zh-CN-XiaoxiaoNeural
+晓晓-Chinese (Mandarin, Simplified)
+
+zh-CN-YunyangNeural
+云扬-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaochenNeural
+晓辰-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaohanNeural
+晓涵-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaomoNeural
+晓墨-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaoqiuNeural
+晓秋-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaoruiNeural
+晓睿-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaoshuangNeural
+晓双-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaoxuanNeural
+晓萱-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaoyanNeural
+晓颜-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaoyouNeural
+晓悠-Chinese (Mandarin, Simplified)
+
+zh-CN-YunxiNeural
+云希-Chinese (Mandarin, Simplified)
+
+zh-CN-YunyeNeural
+云野-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaomengNeural
+晓梦-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaoyiNeural
+晓伊-Chinese (Mandarin, Simplified)
+
+zh-CN-XiaozhenNeural
+晓甄-Chinese (Mandarin, Simplified)
+
+zh-CN-YunfengNeural
+云枫-Chinese (Mandarin, Simplified)
+
+zh-CN-YunhaoNeural
+云皓-Chinese (Mandarin, Simplified)
+
+zh-CN-YunjianNeural
+云健-Chinese (Mandarin, Simplified)
+
+zh-CN-YunxiaNeural
+云夏-Chinese (Mandarin, Simplified)
+
+zh-CN-YunzeNeural
+云泽-Chinese (Mandarin, Simplified)
+
+zh-CN-henan-YundengNeural
+云登-Chinese (Zhongyuan Mandarin Henan, Simplified)
+
+zh-CN-liaoning-XiaobeiNeural
+晓北-Chinese (Northeastern Mandarin, Simplified)
+
+zh-CN-shaanxi-XiaoniNeural
+晓妮-Chinese (Zhongyuan Mandarin Shaanxi, Simplified)
+
+zh-CN-shandong-YunxiangNeural
+云翔-Chinese (Jilu Mandarin, Simplified)
+
+zh-CN-sichuan-YunxiNeural
+云希-Chinese (Southwestern Mandarin, Simplified)
+
+zh-HK-HiuMaanNeural
+曉曼-Chinese (Cantonese, Traditional)
+
+zh-HK-HiuGaaiNeural
+曉佳-Chinese (Cantonese, Traditional)
+
+zh-HK-WanLungNeural
+雲龍-Chinese (Cantonese, Traditional)
+
+zh-TW-HsiaoChenNeural
+曉臻-Chinese (Taiwanese Mandarin)
+
+zh-TW-HsiaoYuNeural
+曉雨-Chinese (Taiwanese Mandarin)
+
+zh-TW-YunJheNeural
+雲哲-Chinese (Taiwanese Mandarin)
+
