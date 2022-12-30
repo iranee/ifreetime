@@ -5,8 +5,7 @@
 https://github.com/wxxxcxx/ms-ra-forwarder
 
 ## 设置azure.php
-更换API的网络地址：  `CURLOPT_URL => 'http://127.0.0.1:3000/api/azure'`
-并将`azure.php`扔到支持PHP的web网站
+更换API的为你部署的网络地址：  CURLOPT_URL => '`http://127.0.0.1:3000/api/azure`'，并将`azure.php`扔到支持PHP的web网站
 
 ## 多音字规则
 如果没有过多要求，建议删除`azure.php`里的`<lexicon uri="https://github.com/iranee/ifreetime/raw/main/lexicon.xml"/>`
