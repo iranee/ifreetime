@@ -15,6 +15,10 @@ https://github.com/wxxxcxx/ms-ra-forwarder
 2. 自定义语音库
 3. 创建->高级自定义语音合成
 
+名称：`任意`
+
+合成字数：建议`200`
+
 请求方式：`GET`
 
 地址：`azure.php`网络地址，例如https://www.tts.com/azure.php
