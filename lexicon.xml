@@ -6,9 +6,6 @@
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="sapi" xml:lang="zh-CN">
   <!--AzureTTS 多音字字典，1234分别为平升转降，5为轻声 -->
-  <!--A-->
-  <!--B-->
-  <!--C-->
   <lexeme>
     <grapheme>朱重八</grapheme>
     <phoneme>zhu 1 - chong 2 - ba 1</phoneme>
@@ -37,10 +34,6 @@
     <grapheme>重头戏</grapheme>
     <phoneme>zhong 2 - tou 2 - xi 4</phoneme>
   </lexeme>
-  <!--D-->
-  <!--E-->
-  <!--F-->
-  <!--G-->
   <lexeme>
     <grapheme>四更天</grapheme>
     <phoneme>si 4 - geng 1 - tian 1</phoneme>
@@ -53,7 +46,6 @@
     <grapheme>咯咯咯</grapheme>
     <phoneme>ge 1 - ge 1 - ge 1</phoneme>
   </lexeme>
-  <!--H-->
   <lexeme>
     <grapheme>布行</grapheme>
     <phoneme>bu 4 - hang 2</phoneme>
@@ -66,9 +58,6 @@
     <grapheme>干一行爱一行</grapheme>
     <phoneme>gan 4 - yi 4 - hang 2 - ai 4 - yi 4 - hang 2</phoneme>
   </lexeme> 
-  <!--I-->
-  <!--J-->
-  <!--K-->
   <lexeme>
     <grapheme>咳咳</grapheme>
     <phoneme>ke 2 - ke 2</phoneme>
@@ -77,7 +66,6 @@
     <grapheme>咳咳咳</grapheme>
     <phoneme>ke 2 - ke 2 - ke 2</phoneme>
   </lexeme>
-  <!--L-->
   <lexeme>
     <grapheme>大概率</grapheme>
     <phoneme>da 4 - gai 4 - lv 4</phoneme>
@@ -86,28 +74,14 @@
     <grapheme>小概率</grapheme>
     <phoneme>xiao 3 - gai 4 - lv 4</phoneme>
   </lexeme>
-  <!--M-->
   <lexeme>
     <grapheme>麻了</grapheme>
-    <phoneme>ma 2 - le</phoneme>
+    <phoneme>ma 2 - le 5</phoneme>
   </lexeme>
-  <!--N-->
-  <!--O-->
-  <!--P-->
-  <!--Q-->
-  <!--R-->
-  <!--S-->
-  <!--T-->
-  <!--U-->
-  <!--V-->
-  <!--W-->
-  <!--X-->
   <lexeme>
     <grapheme>行了</grapheme>
     <phoneme>xing 2 - le 5</phoneme>
   </lexeme>
-  <!--Y-->
-  <!--Z-->
   <lexeme>
     <grapheme>沉着脸</grapheme>
     <phoneme>chen 2 - zhe 5 - lian 3</phoneme>
