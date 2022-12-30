@@ -20,9 +20,9 @@ https://github.com/wxxxcxx/ms-ra-forwarder
 
 地址：`azure.php`网络地址，例如https://www.tts.com/azure.php
 
-参数部分1：添加->请输入请求参数：`voiceName`，内容填自己想要的人声（参考`voiceName.txt`），例如`zh-CN-XiaoxiaoNeural`
+参数->添加->请输入请求参数：`voiceName`，内容填自己想要的人声（参考`voiceName.txt`），例如`zh-CN-XiaoxiaoNeural`
 
-参数部分2：添加->请输入请求参数：`text`，内容填`%@`
+参数->添加->请输入请求参数：`text`，内容填`%@`
 
 4. 解析字段->添加->请输入请求参数：`playData`，内容填`ResponseData`
 5. 测试发音，如果正确就ok了。建议先删除多音字规则那部分测试。
