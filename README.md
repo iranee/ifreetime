@@ -15,20 +15,12 @@ https://github.com/wxxxcxx/ms-ra-forwarder
 1. 打开手机App，进入听书配置
 2. 自定义语音库
 3. 创建->高级自定义语音合成
-
-名称：`任意`
-
-合成字数：建议`200`
-
-请求方式：`GET`
-
-地址：`azure.php`网络地址，例如https://www.tts.com/azure.php
-
-参数->添加->请输入请求参数：`voiceName`，内容填自己想要的人声（参考`voiceName.txt`），例如`zh-CN-XiaoxiaoNeural`
-
-参数->添加->请输入请求参数：`text`，内容填`%@`
-
-解析字段->添加->请输入解析字段与规则：`playData`，内容填`ResponseData`
-
-
-4. 测试发音，如果正确就ok了。建议先删除多音字规则那部分测试。
+* 名称：`任意`
+* 合成字数：建议`200`
+* 请求方式：`GET`
+* 地址：`azure.php`网络地址，例如https://www.tts.com/azure.php
+* 参数->添加->请输入请求参数：`voiceName`，内容填自己想要的人声（参考`voiceName.txt`），例如`zh-CN-XiaoxiaoNeural`
+* 参数->添加->请输入请求参数：`text`，内容填`%@`
+* 解析字段->添加->请输入解析字段与规则：`playData`，内容填`ResponseData`
+4. 测试发音，如果正确就ok了。
+* 如果出现错误建议先删除多音字规则再测试。
