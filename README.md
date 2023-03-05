@@ -14,7 +14,7 @@ https://github.com/wxxxcxx/ms-ra-forwarder
 * 如果azure接口抽风，请更换ra接口
 
 ## 多音字规则
-可以尝试在`azure.php`里添加一下代码实现
+可以尝试在`azure.php`里添加下面代码实现
 `<lexicon uri="https://github.com/iranee/ifreetime/raw/main/lexicon.xml"/>`
 添加到<voice name="' . $voiceName . '">下一行
 
