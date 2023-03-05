@@ -4,11 +4,15 @@ iOS爱阅书香TTS自建服务
 ## 本地/网络部署具硬TTS
 https://github.com/wxxxcxx/ms-ra-forwarder
 
-## 设置azure.php
+## Azure TTS 演示页面的接口，编辑azure.php
 更换API为你部署的网络地址：  CURLOPT_URL => '`http://127.0.0.1:3000/api/azure`'，并将`azure.php`扔到支持PHP的web网站
 
+##  Edge 浏览器“大声朗读”接口，编辑ra.php
+更换API为你部署的网络地址：  CURLOPT_URL => '`http://127.0.0.1:3000/api/ra`'，并将`ra.php`扔到支持PHP的web网站
+如果azure接口抽风，请更换ra接口
+
 ## 多音字规则
-如果没有过多要求，建议删除`azure.php`里的
+可以尝试在`azure.php`里添加一下代码实现
 `<lexicon uri="https://github.com/iranee/ifreetime/raw/main/lexicon.xml"/>`
 
 ## iOS端设置
@@ -23,4 +27,3 @@ https://github.com/wxxxcxx/ms-ra-forwarder
 * 参数->添加->请输入请求参数：`text`，内容填`%@`
 * 解析字段->添加->请输入解析字段与规则：`playData`，内容填`ResponseData`
 4. 测试发音，如果正确就ok了。
-* 如果出现错误建议先删除多音字规则再测试。
