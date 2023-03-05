@@ -15,8 +15,8 @@ https://github.com/wxxxcxx/ms-ra-forwarder
 
 ## 多音字规则
 可以尝试在`azure.php`里添加下面代码实现
+在` <voice name="' . $voiceName . '"> `下一行添加代码：
 `<lexicon uri="https://github.com/iranee/ifreetime/raw/main/lexicon.xml"/>`
-添加到<voice name="' . $voiceName . '">下一行
 
 ## iOS端设置
 1. 打开手机App，进入听书配置
