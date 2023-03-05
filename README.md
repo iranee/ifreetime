@@ -4,12 +4,14 @@ iOS爱阅书香TTS自建服务
 ## 本地/网络部署具硬TTS
 https://github.com/wxxxcxx/ms-ra-forwarder
 
-## Azure TTS 演示页面的接口，编辑azure.php
-更换API为你部署的网络地址：  CURLOPT_URL => '`http://127.0.0.1:3000/api/azure`'，并将`azure.php`扔到支持PHP的web网站
+## Azure TTS 演示页面的接口
+* 编辑编辑azure.php
+* 更换API为你部署的网络地址：  CURLOPT_URL => '`http://127.0.0.1:3000/api/azure`'，并将`azure.php`扔到支持PHP的web网站
 
-##  Edge 浏览器“大声朗读”接口，编辑ra.php
-更换API为你部署的网络地址：  CURLOPT_URL => '`http://127.0.0.1:3000/api/ra`'，并将`ra.php`扔到支持PHP的web网站
-如果azure接口抽风，请更换ra接口
+##  Edge 浏览器“大声朗读”接口
+* 编辑ra.php
+* 更换API为你部署的网络地址：  CURLOPT_URL => '`http://127.0.0.1:3000/api/ra`'，并将`ra.php`扔到支持PHP的web网站
+* 如果azure接口抽风，请更换ra接口
 
 ## 多音字规则
 可以尝试在`azure.php`里添加一下代码实现
