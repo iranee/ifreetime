@@ -3,7 +3,7 @@ $curl = curl_init();
 $text = $_GET['text'];
 $voiceName = $_GET['voiceName'];
 curl_setopt_array($curl, array(
-  CURLOPT_URL => 'http://192.168.1.22:3000/api/ra',
+  CURLOPT_URL => 'http://127.0.0.1:3000/api/ra',
   CURLOPT_RETURNTRANSFER => true,
   CURLOPT_ENCODING => '',
   CURLOPT_MAXREDIRS => 10,
